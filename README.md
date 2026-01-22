@@ -4,3 +4,7 @@
 - Learned print statements
 - Learned variables
 - Uploaded first Python programs
+## Day 2
+- Learned Python data types
+- Practiced type conversion
+- Performed basic operations
