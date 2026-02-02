@@ -8,3 +8,6 @@
 - Learned Python data types
 - Practiced type conversion
 - Performed basic operations
+## Day 3
+-learned all list operations
+-practiced tuples and dictionaries with specific tasks
