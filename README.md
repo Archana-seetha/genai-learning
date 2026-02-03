@@ -8,9 +8,9 @@
 - Learned Python data types
 - Practiced type conversion
 - Performed basic operations
-- ## Day 3
+   ## Day 3
 - lists
 - tuples
 - dictionaries
-- ## Day 4
+ ## Day 4
 - functions
